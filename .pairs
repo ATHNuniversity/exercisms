@@ -1,6 +1,10 @@
 pairs:
   kb: Kim Barnes
   ac: Andrew Courter
+  gm: Garrett Motzner
+  lp: Lew Parker
+  mh: Matt Hamrick
+  dm: David Madouros
 email:
   prefix: pair
   domain: athn.org
